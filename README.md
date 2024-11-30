@@ -61,5 +61,3 @@ The following libraries are used in the Gym Management System project:
 - If you encounter any issues, check your database connection and the installed libraries.
 
 ---
-
-This version is organized, with **important instructions at the top**, followed by setup steps, running instructions, and additional details like the libraries used. You can now include this structured `README.txt` in your GitHub repository. Let me know if you'd like further adjustments!
